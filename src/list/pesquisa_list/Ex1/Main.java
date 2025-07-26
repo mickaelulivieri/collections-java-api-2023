@@ -1,4 +1,4 @@
-package list.OperacoesBasicas.ex3;
+package list.pesquisa_list.Ex1;
 
 import java.util.List;
 
