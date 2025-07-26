@@ -1,4 +1,4 @@
-package set.operacoes_basicas;
+package set.operacoes_basicas.ex1;
 /*
 1. Conjunto de Convidados
 Crie uma classe chamada "ConjuntoConvidados" que possui um conjunto de objetos do tipo "Convidado" como atributo. Cada convidado possui atributos como nome e código do convite. Implemente os seguintes métodos:
